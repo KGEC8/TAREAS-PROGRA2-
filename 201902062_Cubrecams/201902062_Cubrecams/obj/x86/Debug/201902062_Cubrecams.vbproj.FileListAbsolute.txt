@@ -1,0 +1,12 @@
+C:\Users\Kherwin\AppData\Local\Temporary Projects\201902062_Cubrecams\obj\x86\Debug\_201902062_Cubrecams.Form1.resources
+C:\Users\Kherwin\AppData\Local\Temporary Projects\201902062_Cubrecams\obj\x86\Debug\_201902062_Cubrecams.Resources.resources
+C:\Users\Kherwin\AppData\Local\Temporary Projects\201902062_Cubrecams\obj\x86\Debug\201902062_Cubrecams.vbproj.GenerateResource.Cache
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\obj\x86\Debug\_201902062_Cubrecams.Form1.resources
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\obj\x86\Debug\_201902062_Cubrecams.Resources.resources
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\obj\x86\Debug\201902062_Cubrecams.vbproj.GenerateResource.Cache
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\bin\Debug\201902062_Cubrecams.exe
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\bin\Debug\201902062_Cubrecams.pdb
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\bin\Debug\201902062_Cubrecams.xml
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\obj\x86\Debug\201902062_Cubrecams.exe
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\obj\x86\Debug\201902062_Cubrecams.xml
+C:\Users\Kherwin\Documents\Visual Studio 2010\Projects\201902062_TarePreParcial\201902062_Cubrecams\201902062_Cubrecams\obj\x86\Debug\201902062_Cubrecams.pdb
